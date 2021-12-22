@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: geocode-service
+  annotations:
+    github.com/project-slug: chazgorman/geocode-service
+spec:
+  type: other
+  lifecycle: unknown
+  owner: team-a
